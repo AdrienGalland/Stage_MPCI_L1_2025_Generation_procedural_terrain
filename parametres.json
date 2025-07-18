@@ -1,0 +1,9 @@
+{
+    "resolution": 1000,
+    "grid_size": 6,
+    "nb_octaves": 6,
+    "persistence": 0.5,
+    "height": 0,
+    "height_multiplicator": 2,
+    "percent_water": 1
+}
